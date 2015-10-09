@@ -1,0 +1,152 @@
+@font-face {
+    font-family:'3dumbregular';
+    src: url('3Dumb-webfont.eot');
+    src: url('3Dumb-webfont.eot?#iefix') format('embedded-opentype'),
+         url('3Dumb-webfont.woff') format('woff'),
+         url('3Dumb-webfont.ttf') format('truetype'),
+         url('3Dumb-webfont.svg#3dumbregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+/*body{
+padding-top: 100px;
+}
+*/
+.feature .glyphicon{
+font-size:32px;
+margin-top:30px;
+}
+
+.foot, {
+background-color:#39505C;
+margin-top:20px;
+color:#DAD7D7;
+padding-bottom:5px;
+padding-left: 15px;
+}
+
+.fa.fa-quote-left{ 
+font-size:15px;
+
+}
+
+.fa.fa-quote-right {
+font-size: 15px;
+}
+
+.navbar-nav {
+text-align: center;
+left: 30%;
+position: relative;
+font-size: 25px;
+font-family: '3dumbregular', 'Droid Sans', sans-serif;}
+
+h1, .h2br, h3, .title, h2{
+font-family: '3dumbregular', 'Droid Sans', sans-serif;
+line-height: 150%;}
+
+h2, .h2br{
+display: inline;}
+
+.h2br{
+color: darkcyan;}
+
+h1{
+font-size: 50px;
+text-align: center;}
+
+h3{
+font-size: 50px;
+margin-top: 50px;
+margin-bottom: 20px;}
+
+p {
+font-size: 25px;
+color:black;
+line-height: 35px;}
+
+.footer{
+font-size:15px;
+line-height: 5px;}
+
+img {
+cursor: pointer;
+}
+
+
+ul li {
+list-style: none;
+}
+
+ul {
+  padding:0 0 0 0;
+  margin:0 0 0 0;
+}
+.modal-dialog img {
+ text-align: center;
+ margin: 0px auto;
+ 
+ }
+ 
+#photos{
+margin-top: 50px;}
+
+.img1, .img4,.img7, .img9  {
+ -ms-transform: rotate(10deg); /* IE 9 */
+ -webkit-transform: rotate(10deg); /* Chrome, Safari, Opera */
+ transform: rotate(10deg);
+ border:solid 2px gray
+}
+
+.img2, .img5, .img6, .img8 {
+ -ms-transform: rotate(-7deg); /* IE 9 */
+ -webkit-transform: rotate(-7deg); /* Chrome, Safari, Opera */
+ transform: rotate(-7deg);
+ border:solid 2px gray
+}
+
+.img3, .img10 {
+ -ms-transform: rotate(5deg); /* IE 9 */
+ -webkit-transform: rotate(5deg); /* Chrome, Safari, Opera */
+ transform: rotate(5deg);
+ border:solid 2px gray
+}
+
+#page1, #page2, #page3 { 
+width: 100%;
+height: 650px;
+
+}
+#page1{
+height: 700px;
+background:#ccc url(images/page1.jpg) top left;}
+#page4{
+width: 100%;
+height: 600px;
+background:#ccc url(images/page2.jpg) top left;}
+#page2{
+background:#ccc url(images/page3.jpg) top left;}
+#page3{
+background:#ccc url(images/page5.jpg) top left;}
+.well {
+padding:0;
+background-color: #FFFDED;
+margin-top:150px;}
+
+.fa-github {
+font-size: 40px;}
+
+.fa-linkedin {
+font-size: 50px;
+margin-top:50px; }
+
+.foot{
+background-color:darkgray;
+padding-top: 15px;
+padding-left: 15px;}
+
+.navbar-default {
+background-color: #FFFDED;}
