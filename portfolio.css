@@ -101,7 +101,7 @@ margin:auto;
 }
 
 .modal-content{
-width: 520px;}
+width: 100%;}
 
 .img1, .img4,.img7 {
  -ms-transform: rotate(10deg); /* IE 9 */
