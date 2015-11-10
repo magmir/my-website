@@ -216,6 +216,9 @@ h1 {
 	padding-bottom: 0.666666667em;
 	line-height: 1.666666667em;
 	}
+
+	.modal-content{
+	width: 200px;}
 }
 
 /*SMALL, MEDIUM AND LARGE SCREENS*/
