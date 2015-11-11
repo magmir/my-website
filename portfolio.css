@@ -182,11 +182,11 @@ color: #FFFDED;
 @media screen and (max-width: 767px) { 
 
 h1 {
-	font-size: 3.125em;
+	font-size: 3em;
 	}
 
 	h3 {
-	font-size: 3.125em;
+	font-size: 3em;
 	margin-top: 1em;
 	margin-bottom: 0.4em;
 	}
