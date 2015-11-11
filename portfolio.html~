@@ -10,8 +10,8 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Patrick+Hand' rel='stylesheet' type='text/css'>
-<link href="main.css" rel="stylesheet"> 
-<script src="gallery_responsive.js"></script>
+<link href="portfolio.css" rel="stylesheet"> 
+<script src="portfolio.js"></script>
 
 </head>
 
@@ -19,7 +19,7 @@
 	
 <div class="navbar navbar-default navbar-fixed-top">
 	<div class="container">
-		<button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'><span class='sr-only'>Toggle navigation</span>
+		<button type='button' class='navbar-toggle collapsed' data-toggle='collapse' data-target='.navbar-collapse' aria-expanded='false'><span class='sr-only'>Toggle navigation</span>
 		<span class='icon-bar'></span>
 		<span class='icon-bar'></span>
 		<span class='icon-bar'></span>

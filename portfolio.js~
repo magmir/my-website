@@ -13,7 +13,7 @@ var htmlForPicture = function(index, img, imgTitle) {
 $(document).ready(function(){
 		$('li img').on('click', function() {
 			var imgSrc = $(this).attr('src');
-   		var img = '<img src="' + imgSrc + '" class="img-responsive"/>'; 
+   		var img = '<img src="' + imgSrc + '" class="img-responsive"/>'; /*'+sth+'?*/
   		 	var imgTitle=$(this).attr('alt');
   		 	var index = $(this).parent('li').index();
   		 	var html = htmlForPicture(index, img, imgTitle);
