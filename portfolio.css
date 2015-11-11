@@ -11,7 +11,7 @@
 }
 
 html{
-font-size: 100%;
+font-size: 1em;
 } 
 
 body{
@@ -23,7 +23,7 @@ height: 100vh;
 
 h1, .h2br, h3, .title, h2 {
 font-family: '3dumbregular', 'Droid Sans', sans-serif;
-line-height: 150%;
+line-height: 1.5em;
 color:#5A2E2E;
 text-align: center;
 }
@@ -47,7 +47,7 @@ margin:0;
 padding:0;
 background-color: #484848;
 color: white;
-font-size: 14px;
+font-size: 1em;
 }
 
 img {
@@ -101,7 +101,7 @@ margin:auto;
 }
 
 .modal-content{
-width: 80%;}
+width: 32.500em;}
 
 .img1, .img4,.img7 {
  -ms-transform: rotate(10deg); /* IE 9 */
@@ -167,10 +167,10 @@ color: #FFFDED;
 }
 
 .controls{
-    width:50px;
+    width:3.125em;
     display:block;
-    font-size:11px;
-    padding-top:8px;
+    font-size:0.6875em;
+    padding-top:0.5em;
     font-weight:bold;
 }
 .next {
