@@ -90,11 +90,6 @@ background-color: #FFFBDE;
 border:3px solid #5A2E2E;
 }
 
-.secwell {
-padding:0;
-margin:0;
-}
-
 .modal-dialog img {
  text-align: center;
 margin:auto;
@@ -217,6 +212,9 @@ h1 {
 	padding-bottom: 0.666666667em;
 	line-height: 1.666666667em;
 	}
+	.modal-content{
+	width: 80%;}
+
 }
 
 /*SMALL, MEDIUM AND LARGE SCREENS*/
